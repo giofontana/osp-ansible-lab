@@ -2,3 +2,4 @@
   connection: local
   roles:
    -  osp-setup
+   -  osp-provision-instance
