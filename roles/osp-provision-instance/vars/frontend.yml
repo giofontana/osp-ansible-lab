@@ -1,5 +1,5 @@
 ---
-instance_name: frontend
+instance_name: frontend.example.com
 group: frontends
 deployment: dev
 security_group_name: frontend_servers 
